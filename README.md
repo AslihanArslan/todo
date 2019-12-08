@@ -5,7 +5,7 @@ pipenv install
 
 ---> If there is an error about psycopg2 error:
 
-![Error](/docs/error.jpeg)
+![Error](https://github.com/AslihanArslan/todo/blob/master/docs/error.jpeg)
 Format: ![Alt Text](url)
 
 

@@ -10,7 +10,6 @@ pipenv install
 If there is an error about psycopg2 error:
 
 ![Error](https://github.com/AslihanArslan/todo/blob/master/docs/error.jpeg)
-Format: ![Alt Text](url)
 
 
 You can use this command:
